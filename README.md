@@ -23,6 +23,8 @@
 ### Platforms &amp; Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
+![ORACLE](https://img.shields.io/badge/ORACLE-#F80000.svg?&amp;style=for-the-badge&amp;logo=ORACLE&amp;logoColor=white)
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -34,7 +36,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
