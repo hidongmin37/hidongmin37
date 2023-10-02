@@ -23,7 +23,8 @@
 ### Platforms &amp; Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white)
-![ORACLE](https://img.shields.io/badge/ORACLE-#F80000.svg?&amp;style=for-the-badge&amp;logo=ORACLE&amp;logoColor=white)
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
