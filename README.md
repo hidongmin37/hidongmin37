@@ -40,6 +40,8 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&amp;style=for-the-badge&amp;logo=Git&amp;logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 <img src="https://img.shields.io/badge/RubyMine-CC0000?style=for-the-badge&logo=RubyMine&logoColor=white">
 <img alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
