@@ -43,4 +43,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 <img src="https://img.shields.io/badge/RubyMine-CC0000?style=for-the-badge&logo=RubyMine&logoColor=white">
 <img alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<br>
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongminjang24&exclude_repo=synthesis,Hackathon-2022_04-,super_vised,Project_1,Project_2,Deep_learning)
