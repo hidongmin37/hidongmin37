@@ -1,21 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=When life gives you lemons, make lemonade (談笑自若)&fontSize=25&fontColor=000000)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=06f&text=When%20life%20gives%20you%20lemons,%20make%20lemonade%20(談笑自若)&height=60&fontSize=34&fontAlign=51)
+<hr/>
+<br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://github.com/dongminjang24)
 <a href="https://blog.naver.com/jangdm37"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jangdm37@gmail.com)
 <a href="https://velog.io/@jangdm37"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
+## what one aspires to
+### What one should be born with is not talent, but effort.
+<br>
+
 ### Who Am I
 
 - 🌱 I’m currently working at HASHSCRAPER
 - 🥇 I majored in Economics,Biology
-- 🚅 My hometown is Yangpyeong, Gyeong-gi-do in Korea
-
-
-### What I Like
-
-- ⚽ Soccer
-- 🐓 Chicken
+<br>
 
 
 # 💪Skills
@@ -43,9 +43,4 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?&style=for-the-badge&logo=eclipse-ide&logoColor=white)
 <img src="https://img.shields.io/badge/RubyMine-CC0000?style=for-the-badge&logo=RubyMine&logoColor=white">
 <img alt="Collab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-
-
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jangdm37">  
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongminjang24&exclude_repo=synthesis,Hackathon-2022_04-,super_vised,Project_1,Project_2,Deep_learning)
