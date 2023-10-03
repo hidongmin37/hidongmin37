@@ -7,7 +7,7 @@
 </a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jangdm37@gmail.com)
 <a href="https://velog.io/@jangdm37"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-## what I aspires to
+## what I aspire to
 ### What one should be born with is not talent, but effort.
 <br>
 
