@@ -13,7 +13,6 @@
 
 ### Who Am I
 
-- 🌱 I’m currently working at HASHSCRAPER
 - 🥇 I majored in Economics,Biology
 <br>
 
