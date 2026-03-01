@@ -23,7 +23,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=hidongmin37&theme=tokyonight&hide_border=true&background=0D1117" />
-ngmin37&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" height="170"/>
 
 <br/><br/>
 
